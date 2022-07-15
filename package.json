@@ -1,0 +1,14 @@
+{
+  "name": "nolove",
+  "version": "9.0.0",
+  "description": "When are afraid of loving someone",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "json-server": "^0.17.0"
+  }
+}
